@@ -95,7 +95,7 @@ Telegram botlar orqali ta'lim, marketing, CRM
 <p align="center">
   <img src="https://img.shields.io/github/followers/jahongirzohidov07-ui?style=for-the-badge&color=8E2DE2&labelColor=0D1117&logo=github&logoColor=white" />
   <img src="https://img.shields.io/github/stars/jahongirzohidov07-ui?style=for-the-badge&color=4A00E0&labelColor=0D1117&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00C9FF&labelColor=0D1117&label=Repos&query=public_repos&url=https://api.github.com/users/jahongirzohidov07-ui&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00C9FF&labelColor=0D1117&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjahongirzohidov07-ui&logo=github&logoColor=white" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&width=100%"/>

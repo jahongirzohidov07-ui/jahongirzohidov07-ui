@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=650&lines=Jony+Academy+asoschisi+%F0%9F%8E%93;Tizim+orqali+ustunlik+%E2%9A%A1;Natija+ishlab+chiqaruvchi+model+%F0%9F%9A%80;Telegram+botlar+bilan+avtomatlashtirish+%F0%9F%A4%96" />
 </a>
 
+<br/>
+
+<img src="https://img.shields.io/badge/Ta'lim_tadbirkori-8E2DE2?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Tizim_quruvchi-4A00E0?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Bot_dasturchisi-00C9FF?style=flat-square&labelColor=0D1117" />
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&width=100%"/>
@@ -14,9 +20,11 @@
 
 Men **Jony Academy** (IELTS/CEFR tayyorlov markazi) va **Jony School** (xususiy maktab) asoschisiman. Kod yozishni ta'lim biznesini kuchaytirish uchun vosita sifatida ishlataman — o'quvchilar uchun Telegram botlar, HR va sales avtomatizatsiyasi, va real natija beradigan tizimlar quraman.
 
+> *"Oddiy o'qitish emas — muhit yaratish. Tizim orqali ustunlik."*
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 🎓 **Jony Academy**
 Bekobod #1 til markazi — 5 filial
@@ -25,7 +33,7 @@ Bekobod #1 til markazi — 5 filial
 Ivy League va grantlarga yo'naltirilgan xususiy maktab
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 💻 **IT Master School**
 Zamonaviy kasblar bo'yicha o'quv markazi
@@ -73,9 +81,31 @@ Telegram botlar orqali ta'lim, marketing, CRM
 
 ### 🛠️ Texnologiyalar
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode,telegram&theme=dark" />
-</p>
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Backend & Bot**
+
+<img src="https://skillicons.dev/icons?i=python,telegram&theme=dark" />
+
+</td>
+<td valign="top" width="33%">
+
+**Ma'lumotlar bazasi**
+
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
+
+</td>
+<td valign="top" width="33%">
+
+**Dev asboblari**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Telegram%20Bot%20API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -85,6 +115,20 @@ Telegram botlar orqali ta'lim, marketing, CRM
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:8E2DE2&height=3&width=100%"/>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahongirzohidov07-ui/jahongirzohidov07-ui/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jahongirzohidov07-ui/jahongirzohidov07-ui/output/snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/jahongirzohidov07-ui/jahongirzohidov07-ui/output/snake.svg" width="100%" />
+  </picture>
+</p>
+
+<sub align="center">GitHub Actions orqali har kuni avtomatik yangilanadi ⏰</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&width=100%"/>
 
 ### 📊 GitHub statistikam
 
@@ -100,7 +144,7 @@ Telegram botlar orqali ta'lim, marketing, CRM
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:8E2DE2&height=3&width=100%"/>
 
 ### 📬 Bog'lanish
 

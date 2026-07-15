@@ -86,21 +86,16 @@ Telegram botlar orqali ta'lim, marketing, CRM
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:8E2DE2&height=3&width=100%"/>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jahongirzohidov07-ui&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
-</p>
-
 ### 📊 GitHub statistikam
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jahongirzohidov07-ui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahongirzohidov07-ui&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahongirzohidov07-ui&theme=radical&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahongirzohidov07-ui&theme=radical&hide_border=true&background=0D1117" />
+  <img src="https://img.shields.io/github/followers/jahongirzohidov07-ui?style=for-the-badge&color=8E2DE2&labelColor=0D1117&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/jahongirzohidov07-ui?style=for-the-badge&color=4A00E0&labelColor=0D1117&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00C9FF&labelColor=0D1117&label=Repos&query=public_repos&url=https://api.github.com/users/jahongirzohidov07-ui&logo=github&logoColor=white" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&width=100%"/>

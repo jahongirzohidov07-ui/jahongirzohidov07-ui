@@ -81,6 +81,12 @@ Telegram botlar orqali ta'lim, marketing, CRM
 
 ### 🛠️ Texnologiyalar
 
+<p align="center">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+</p>
+
 <table>
 <tr>
 <td valign="top" width="33%">
